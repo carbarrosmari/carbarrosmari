@@ -13,12 +13,17 @@ Trainee at Resale Br.
 <code><img height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 <code><img height="30" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></code>
-<code><img height="30" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+<code><img height="30" src="https://img.shields.io/badge/Python-4682B4?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/PHP-6959CD?style=for-the-badge&logo=php&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Nodejs-32CD32?style=for-the-badge&logo=node.js&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Mysql-4169E1?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Gitflow-FF4500?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></code>
+<code><img height="30" src="https://img.shields.io/badge/Ubuntu-C71585?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></code>
 <code><img height="30" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></code>
@@ -31,6 +36,7 @@ Trainee at Resale Br.
 ## About me 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/carbarrosmari)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marianacbarros/)
+[![Web Badge](https://img.shields.io/badge/Website-DA70D6?style=for-the-badge&logo=&logoColor=white)](https://devmarianacardoso.vercel.app/)
 
 ## Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariana.cbarros16@gmail.com)
