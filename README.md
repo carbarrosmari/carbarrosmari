@@ -45,7 +45,7 @@ Back-end developer with 2 years of experience dedicating myself to development i
  
 
 
-[![carbarrosmari GitHub stats](https://github-readme-stats.vercel.app/api?username=carbarrosmari)](https://github.com/carbarrosmari/github-readme-stats)
+<!-- [![carbarrosmari GitHub stats](https://github-readme-stats.vercel.app/api?username=carbarrosmari)](https://github.com/carbarrosmari/github-readme-stats) -->
 
 - Thanks for visiting. 👍
  
