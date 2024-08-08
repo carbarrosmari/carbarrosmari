@@ -4,7 +4,7 @@
  
 ## I'm Mariana Cardoso. 🏳️‍🌈 🦄
 I'm brazilian. 🇧🇷 
-Back-end developer with 2 years of experience dedicating myself to development in PHP technologies, Laravel, Symfony, Mysql, Doctrine, Python, Django. 👩‍💻
+Back-end developer with 3 years of experience dedicating myself to development in PHP technologies, Laravel, Symfony, Mysql, Doctrine, Python, Django. 👩‍💻
 
 
 ## Languages and Tools
